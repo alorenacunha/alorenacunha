@@ -3,7 +3,7 @@
 I'm in love to coding ❤
 
 - 🔭 I’m currently working on 
-    🅰️ Angular2+, 
+    --🅰️ Angular2+, 
     ⚛️ PWA ReactJS,  
     🟨 Power BI
 - 📌 Other Skills: 

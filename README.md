@@ -1,6 +1,6 @@
 # Welcome to my profile 🤩
 
-I'm in love to coding ❤
+I'm in love with coding ❤
 
 #### 😎 I’m currently working on 
 - 🅰️ Angular2+ 

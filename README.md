@@ -4,10 +4,9 @@ I'm in love with coding ❤
 
 #### 😎 I’m currently working on 
 - 🅰️ Angular2+ 
-- ⚛️ PWA ReactJS 
-- 🟨 Power BI
-
+- 
 #### 👸 Other Skills: 
+- React
 - NodeJs 
 - Ionic      
 - Javascript

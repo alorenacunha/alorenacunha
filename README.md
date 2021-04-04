@@ -4,7 +4,7 @@ I'm in love with coding ❤
 
 #### 😎 I’m currently working on 
 - 🅰️ Angular2+ 
-- 
+
 #### 👸 Other Skills: 
 - React
 - NodeJs 

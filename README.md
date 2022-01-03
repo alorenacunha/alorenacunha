@@ -7,12 +7,9 @@ I'm in love with coding ❤
 - React
 - NodeJs 
 - Ionic      
-- Javascript
-- HTML
-- CSS
 - Arduino
 
-#### 🙅 Every day I learn
+#### 🙅 Every day I'm learning
 
 
 💬 Let's talk

@@ -12,7 +12,8 @@ I'm in love with coding ❤
 - CSS
 - Arduino
 
-#### 🙅 I’m currently learning DevOPs
+#### 🙅 Every day I learn
+
 
 💬 Let's talk
 

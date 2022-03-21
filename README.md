@@ -3,7 +3,7 @@
 I'm in love with coding ❤
 
 #### 😎 : 
-- 🅰️ Angular2+ 
+- Angular 
 - React
 - NodeJs 
 - Ionic      
